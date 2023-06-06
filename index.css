@@ -1,0 +1,2743 @@
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('./gilroy/Gilroy-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+
+    src: url('./gilroy/Gilroy-Bold.ttf') format('truetype');
+
+}
+
+.nav-button {
+    background-color: rgb(11, 207, 142) !important;
+    color: white !important;
+    font-size: 20px !important;
+    margin-left: 20px !important;
+    font-family: 'Gilroy-bold';
+
+}
+
+.first-section {
+    background-color: #F9F9F9;
+}
+
+.install {
+    font-family: 'Gilroy-Bold';
+
+
+}
+
+.first-one {
+    padding-left: 25px !important;
+    font-size: 16px !important;
+    font-weight: 700;
+    font-family: 'Gilroy-Regular';
+}
+
+.Season-friend {
+    width: 40% !important;
+    padding-top: 48px;
+    font-family: 'Gilroy-Regular';
+}
+
+.Jakarta-one {
+
+    font-size: 18px;
+    text-align: left;
+    font-weight: 600;
+    color: #272042;
+    font-family: 'Gilroy-Regular';
+
+
+}
+
+.two-butt {
+    background: #000000 !important;
+    color: aliceblue !important;
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 27.6006px;
+    line-height: 0px;
+    padding: 8px !important;
+    width: 235px !important;
+    margin-top: -8px;
+    font-family: 'Gilroy-bold';
+
+
+}
+
+.images-request {
+    margin-left: 300px;
+    width: 50px;
+}
+
+.ico-butt {
+    background-color: aliceblue !important;
+    color: black !important;
+    width: 40px !important;
+    height: 40px !important;
+    border-radius: 100px !important;
+    padding: 5px !important;
+    font-size: 26px !important;
+    font-weight: 800;
+    font-family: 'Gilroy-Regular';
+}
+
+.first-images {
+    width: 100%;
+    height: 100%;
+
+}
+
+.first-heading {
+
+    padding-top: 120px;
+    font-weight: 800;
+    font-size: 53.726px !important;
+    font-family: 'Gilroy-Bold';
+    line-height: 70px;
+    color: #000000;
+
+}
+
+.first-paragrap {
+    font-family: 'Gilroy-Regular';
+    font-weight: 600;
+
+
+    font-size: 22px;
+
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 20px;
+    color: #9E9DA2;
+
+    line-height: 41px;
+
+}
+
+
+.first-backgeround2 {
+    background: #75BF7A;
+
+
+
+
+}
+
+.second-paragraph {
+    padding-left: 43px !important;
+    padding-right: 0px !important;
+    font-family: 'Gilroy-Regular';
+
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 31px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: azure;
+
+
+}
+
+.customer-support {
+
+    font-size: 34px;
+    font-weight: 500;
+    font-family: 'Gilroy-Regular';
+}
+
+.third-paragraph {
+
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 40px;
+    font-family: 'Gilroy-Regular';
+    text-align: center;
+    color: #9E9DA2;
+    padding-left: 220px;
+    padding-right: 280px;
+
+
+}
+
+.first-span {
+    color: #75BF7A;
+    font-family: 'Gilroy-Bold;
+
+}
+
+.request-ride {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: right;
+    font-family: 'Gilroy-Bold';
+
+}
+
+.four-paragraph {
+
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: right;
+    color: #9E9DA2;
+    font-family: 'Gilroy-Regular', ;
+
+}
+
+.four-group {
+    float: right;
+    width: 50px;
+}
+
+.request-ride2 {
+    font-family: 'Gilroy-Bold';
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+
+}
+
+.four-paragraph2 {
+    font-family: 'Gilroy-Regular';
+    font-size: 20px;
+    font-weight: 600;
+    color: #9E9DA2;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.four-paragraph3 {
+    font-family: 'Gilroy-Regular';
+    font-size: 18px;
+    font-weight: 500;
+    color: #9E9DA2;
+    line-height: 24px;
+    letter-spacing: 0em;
+    padding-top: 40px;
+
+}
+
+/* slider started */
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0
+}
+
+.mySlides {
+    display: flex
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    justify-items: center;
+}
+
+.heading-two {
+
+    font-size: 25px;
+    color: #75BF7A;
+    font-weight: 600;
+}
+
+.flexible-working {
+    font-size: 25px;
+    font-weight: 700;
+    padding-right: 50px;
+    color: #000;
+}
+
+.group-two {
+    display: none;
+}
+
+.sector-content2 {
+    padding-right: 50px !important;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.sector-content {
+    padding-left: 37px !important;
+
+    padding-bottom: 20px !important;
+    padding-top: 20px !important;
+
+
+}
+
+.foot-menu {
+    color: #9E9DA2;
+    font-family: 'Gilroy-Regular', ;
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background: #75BF7A;
+
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+/* .active, .dot:hover {
+  background-color: #e9eeeca9;
+} */
+
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 0.5s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+
+}
+
+.images-request2 {
+    width: 50px;
+}
+.container{
+    padding-right: var(--bs-gutter-x,.0rem) !important;
+padding-left: var(--bs-gutter-x,.0rem) !important;
+}
+
+/* On smaller screens, decrease text size */
+@media screen and (min-width:320px) and (max-width:575px) {
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 600;
+        font-size: 23px !important;
+        line-height: 47px !important;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+    .container{
+        padding-right: var(--bs-gutter-x,.75rem) !important;
+    padding-left: var(--bs-gutter-x,.75rem) !important;
+    }
+    .NOTIFICATIONS{
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        font-size: 25px;
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+
+    }
+
+    .foot-menu {
+        color: #9E9DA2;
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .second-paragraph {
+
+        padding-left: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 33px;
+        font-weight: 500;
+        line-height: 45px;
+        letter-spacing: 0px;
+        color: azure;
+        width: 100%;
+
+
+    }
+
+    .Season-Park {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .rest-one {
+        width: 50% !important;
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 100% !important;
+        margin-top: 15px;
+
+
+    }
+
+
+
+
+
+    .first-heading {
+
+
+        padding: 12px;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 38.7259px !important;
+        line-height: 63px;
+        text-align: center;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .sector-content2 {
+        padding-right: 0px !important;
+
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+
+    }
+
+    .sector-content {
+        padding-left: 0px !important;
+
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+
+
+    }
+
+    .two-flexible {
+
+        text-align: left;
+        width: 220px !important;
+    }
+
+    .heading-three {
+        justify-content: center;
+    }
+
+    .heading-two {
+        font-family: 'Gilroy-bold';
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-right: 21px;
+
+    }
+
+    .btn.two-butt {
+        font-size: 12px;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .heading-two6 {
+
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 600;
+        font-family: 'Gilroy-Bold';
+
+    }
+
+     .images-request {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .images-request2 {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .active {
+        background-color: none !important;
+    }
+
+    .four-paragraph2 {
+        font-family: 'Gilroy-Regular';
+        font-size: 22px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 41px;
+        letter-spacing: 0em;
+        text-align: center;
+
+    }
+
+    .request-ride2 {
+        font-family: 'Gilroy-Bold';
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #000000;
+
+
+    }
+
+    .first-paragrap {
+
+        font-family: 'Gilroy-Regular';
+
+        font-style: normal;
+
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 42px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .request-ride {
+        font-family: 'Gilroy-Bold';
+        font-size: 17px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+
+    }
+
+    .four-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 39px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #9E9DA2;
+    }
+
+
+
+
+
+    .request-ride2 {
+        font-family: 'Gilroy-Bold';
+        font-size: 19px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 218px !important;
+
+
+    }
+
+
+
+    .flexible-working {
+        font-size: 25px;
+        font-weight: 700;
+        padding-right: 50px;
+        color: #000;
+        width: 50% !important;
+    }
+
+    .customer-support {
+        font-size: 18px;
+        font-weight: 600;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 100%;
+    }
+
+    .customer-support5 {
+        font-size: 22px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold' ;
+        padding-top: 8px;
+        width: 68%;
+    }
+
+    .twenty-five {
+        width: 70% !important;
+    }
+
+    .twenty-five3 {
+        width: 70% !important;
+    }
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 40px;
+        text-align: center;
+
+    }
+
+    .customer-support3 {
+        font-size: 17px;
+        font-weight: 600;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (min-width:378px) and (max-width:434px) {
+    .flexible-working {
+        font-size: 25px;
+        font-weight: 700;
+        padding-right: 50px;
+        color: #000;
+        width: 50% !important;
+        font-family: 'Gilroy-bold';
+    }
+
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+
+    }
+
+    .customer-support {
+        font-size: 19px;
+        font-weight: 700;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+    }
+
+    .customer-support5 {
+        font-size: 26px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+    }
+
+    .customer-support3 {
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 90%;
+    }
+
+}
+
+@media screen and (min-width:376px) and (max-width:538px) {
+
+    .customer-support3 {
+        font-size: 18px;
+        font-weight: 700;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 84% !important;
+    }
+
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 180px !important;
+        margin-top: -24px;
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 500;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+
+
+}
+
+@media screen and (min-width:538px) and (max-width:575px) {
+
+    .customer-support3 {
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 60%;
+    }
+
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 500;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+
+    .customer-support {
+        font-size: 24px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 1px;
+        width: 60%;
+
+    }
+
+    .customer-support5 {
+        font-size: 26px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 60%;
+    }
+}
+
+@media screen and (min-width:420px) and (max-width:500px) {
+
+
+    .images-request {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .images-request2 {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+
+
+}
+
+@media screen and (min-width:501px) and (max-width:574px) {
+
+
+    .images-request {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .images-request2 {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+   
+    .customer-support3 {
+        font-size: 23px;
+        font-weight: 700;
+        font-family: 'Gilroy-bold';
+        padding-top: 1px;
+        padding-left: 7px;
+        color: #000000;
+        width: 77%;
+
+
+
+
+    }
+
+    .twenty-five {
+        width: 50% !important;
+    }
+
+
+}
+
+@media screen and (min-width:320px) and (max-width:406px) {
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        margin-top: 20px;
+        padding: 7x !important;
+        width: 128px !important;
+        margin: 10px;
+
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+
+    .Season-friend {
+        width: 30% !important;
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 15px !important;
+        width: 250px !important;
+
+
+    }
+
+
+    .second-paragraph {
+        padding-left: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 31px;
+        font-weight: 500;
+        line-height: 45px;
+        letter-spacing: 0px;
+        color: azure;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:720px) {
+    .second-paragraph {
+        padding-left: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 33px;
+        font-weight: 500;
+        line-height: 45px;
+        letter-spacing: 0px;
+        color: azure;
+        width: 82%;
+    }
+
+    .first-heading {
+        padding-top: 5px;
+        font-weight: 800;
+        font-size: 53.726px !important;
+        font-family: 'Gilroy-Bold';
+        line-height: 70px;
+        color: #000000;
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 500;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+        text-align: center;
+
+    }
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 40px;
+        text-align: center;
+        
+
+        }
+
+    .Season-Park {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .customer-support {
+        font-size: 28px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+    }
+
+    .customer-support5 {
+        font-size: 31px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        margin-top: 10px;
+        padding-left: 20px;
+    }
+
+    .customer-support3 {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 10px;
+        width: 100% !important;
+    }
+
+    .Season-friend {
+        width: 30% !important;
+    }
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 22px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+    }
+
+
+    .flexible-working {
+        font-size: 25px;
+        font-weight: 700;
+        font-family: 'Gilroy-bold';
+        color: #000;
+        width: 40% !important;
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        margin-top: 20px;
+        padding: 10px !important;
+        width: 200px !important;
+
+
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 180px !important;
+
+
+    }
+
+    .images-request {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+
+    }
+
+    .images-request2 {
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+
+    }
+
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 600;
+        font-size: 19px;
+        line-height: 26px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 10px;
+        padding-right: 10px;
+
+    }
+
+  
+
+    .four-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #9E9DA2;
+
+    }
+
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+
+    }
+
+    .request-ride {
+        text-align: center;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .request-ride2 {
+        text-align: center;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .four-paragraph2 {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #9E9DA2;
+
+    }
+
+    .heading-two {
+
+        font-size: 60px;
+        color: #75BF7A;
+        font-weight: 600;
+        text-align: right;
+        font-family: 'Gilroy-bold';
+    }
+
+    .heading-two6 {
+
+        font-size: 60px;
+        color: #75BF7A;
+        font-weight: 600;
+        text-align: right;
+        padding-left: 20px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .flexible-working {
+        font-size: 22px;
+        font-weight: 700;
+        padding-top: 10px;
+        font-family: 'Gilroy-bold';
+
+
+    }
+
+    .two-flexible {
+
+        text-align: left;
+        width: 200px !important;
+    }
+
+    .heading-three {
+        justify-content: center;
+
+
+
+
+
+    }
+
+    .sector-content2 {
+        padding-right: 0px !important;
+
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+
+    }
+
+    .sector-content {
+        padding-left: 0px !important;
+
+        padding-bottom: 40px !important;
+        padding-top: 40px !important;
+
+
+    }
+
+    .group-two {
+        display: block;
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 100% !important;
+        margin-top: 15px;
+
+
+    }
+
+    .Season-friend {
+        width: 30% !important;
+    }
+
+}
+
+@media screen and (min-width:720px) and (max-width:767px) {
+
+    .request-ride {
+        font-family: 'Gilroy-Bold';
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
+
+    .images-request {
+        margin-left: 250px;
+        width: 50px;
+    }
+
+    .four-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #9E9DA2;
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 23px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+        margin-top: 20px;
+
+    }
+
+    .images-request2 {
+        width: 50px;
+        margin-left: 240px;
+    }
+
+
+
+
+    .request-ride2 {
+
+        font-family: 'Gilroy-Bold';
+        font-size: 25px;
+        font-weight: 800;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: center;
+        color: #000000;
+    }
+
+    .four-paragraph2 {
+        font-family: 'Gilroy-Bold';
+        font-size: 20px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        text-align: center;
+
+
+
+    }
+
+    .heading-two {
+        font-size: 55px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-left: 60px;
+        font-family: 'Gilroy-bold;
+    }
+
+    .heading-two6 {
+        font-size: 55px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-left: 60px;
+        font-family: 'Gilroy-bold';
+    }
+
+    .customer-support {
+        font-size: 21px;
+        font-weight: 500;
+        padding-left: 76px;
+        font-family: 'Gilroy-Bold';
+        margin-top: 4px;
+    }
+
+    .Season-Park {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    .customer-support5 {
+        font-size: 24px;
+        font-weight: 500;
+        padding-left: 76px;
+        font-family: 'Gilroy-bold';
+        margin-top: 21;
+        margin-top: 13px;
+    }
+
+    .four-paragraph3 {
+
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 40px;
+        text-align: center;
+        font-family: 'Gilroy-Regular';
+
+    }
+
+    .customer-support3 {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 10px;
+        padding-left: 65px;
+
+    }
+
+    .flexible-working {
+        font-size: 22px;
+        font-weight: 700;
+        padding-top: 10px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .Jakarta-one {
+        font-family: 'Gilroy-Regular';
+        font-size: 34px;
+        text-align: center;
+        font-weight: bold;
+        color: #272042;
+
+    }
+
+
+
+}
+
+@media screen and (min-width:768px) and (max-width:1063px) {
+    .images-request {
+        margin-left: 170px !important;
+        width: 50px;
+    }
+
+    .customer-support3 {
+        font-size: 20px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 100% !important;
+        margin-left: 20px;
+
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 28px;
+
+    }
+
+    .heading-two {
+
+        font-size: 55px;
+        color: #75BF7A;
+        font-weight: 500;
+        margin-top: 0px;
+        padding-left: 30px;
+        font-family: 'Gilroy-bold';
+
+
+
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 9px !important;
+        width: 186px !important;
+        margin-top: -41px;
+
+
+    }
+
+    .heading-two6 {
+        font-family: 'Gilroy-bold';
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-left: 340px;
+        margin-top: 15px;
+    }
+
+    .twenty-five {
+
+        width: 50% !important;
+        margin-top: -78px;
+
+
+    }
+
+    .twenty-five3 {
+
+        width: 80% !important;
+        margin-top: -78px;
+
+
+    }
+
+    .customer-support {
+        font-size: 18px;
+font-weight: 600;
+font-family: 'Gilroy-bold';
+padding-left: 69px;
+margin-top: 9px;
+width: 98%;
+
+    }
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 1px;
+        margin-left: 20px;
+
+    }
+
+
+    .customer-support5 {
+        font-size: 28px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-left: 400px;
+        margin-top: 30px;
+
+
+    }
+
+    .first-seven {
+        margin-top: 30px !important;
+    }
+
+}
+
+@media screen and (min-width:991px) and (max-width:1063px) {
+    .customer-support3 {
+        font-size: 24px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 8px;
+        width: 85% !important;
+        margin-left: 59px;
+
+    }
+
+    .heading-two6 {
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-left: 490px;
+        margin-top: 15px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .customer-support5 {
+        font-size: 30px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-left: 520px;
+        margin-top: 30px;
+
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 149px !important;
+
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 25px;
+        font-weight: 500;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 64px;
+
+    }
+
+
+}
+
+@media screen and (min-width:1063px) and (max-width:1200px) {
+    .images-request {
+        margin-left: 231px !important;
+        width: 50px;
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 25px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 64px;
+
+    }
+
+
+    .customer-support5 {
+        font-size: 26px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-left: 530px;
+        margin-top: 30px;
+
+
+    }
+
+    .customer-support3 {
+        font-size: 23px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 34px;
+        width: 78% !important;
+        margin-left: 68px;
+
+    }
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 18px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 20px;
+    }
+
+    .heading-two {
+
+        font-size: 59px;
+        color: #75BF7A;
+        font-weight: 500;
+        padding-top: 30px;
+        font-family: 'Gilroy-bold';
+        margin-left: 20px;
+
+    }
+
+    .twenty-five {
+        width: 44% !important;
+        margin-top: -86px;
+    }
+
+
+    .customer-support {
+        font-size: 21px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 40px;
+        padding-left: 55px;
+
+    }
+
+    .heading-two6 {
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 600;
+        padding-left: 501px;
+        margin-top: 15px;
+        font-family: 'Gilroy-bold';
+
+
+    }
+
+
+}
+
+@media screen and (min-width:720px) and (max-width:770px) {
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 41px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .foot-menu {
+        color: #9E9DA2;
+
+        font-family: 'Gilroy-Regular';
+        font-size: 24px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .Season-friend {
+        width: 29% !important;
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-size: 23px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 210px !important;
+        margin-top: 13px;
+
+    }
+
+
+    .second-paragraph {
+        padding-left: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 33px;
+        font-weight: 500;
+        line-height: 45px;
+        letter-spacing: 0px;
+
+        color: azure;
+        width: 82%;
+
+
+    }
+
+    .first-heading {
+
+        padding-top: 64px;
+        font-style: normal;
+        font-weight: 808;
+        font-size: 50.726px !important;
+        line-height: 68px;
+        font-family: 'Gilroy-Bold';
+
+
+
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 9px !important;
+        width: 215px !important;
+
+
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 100% !important;
+        margin-top: 15px;
+
+
+    }
+
+}
+
+@media screen and (min-width:771px) and (max-width:800px) {
+    .request-ride {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: right;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .second-paragraph {
+        padding-left: 43px !important;
+        padding-right: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 31px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: azure;
+    }
+
+    .request-ride2 {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 26px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 97px;
+        padding-right: 32px;
+    }
+
+    .foot-menu {
+        color: #9E9DA2;
+
+        font-family: 'Gilroy-Regular';
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+    .Season-friend {
+        width: 29% !important;
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+
+        line-height: 0px;
+        padding: 10px !important;
+        width: 110px !important;
+
+
+    }
+
+    .btn.two-butter {
+        font-size: 11px;
+        font-family: 'Gilroy-Bold';
+        margin-top: 15px;
+    }
+
+    .first-heading {
+
+        padding-top: 64px;
+        font-style: normal;
+        font-weight: 808;
+        font-size: 40.726px !important;
+        line-height: 55px;
+
+
+
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 12px !important;
+        width: 150px !important;
+
+
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 10px !important;
+        width: 180px !important;
+        margin-top: 2px;
+
+    }
+
+
+}
+
+@media screen and (min-width:801px) and (max-width:900px) {
+
+    .request-ride {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: right;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .request-ride2 {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .first-heading {
+
+        padding-top: 63px;
+        font-style: normal;
+        font-weight: 1000;
+        font-size: 28.7px !important;
+        line-height: 57px;
+        font-family: 'Gilroy-Bold';
+    }
+
+    .first-paragrap {
+        font-family: 'Gilroy-Regular';
+        font-size: 21px;
+        font-weight: 500;
+        line-height: 28px;
+        letter-spacing: 0em;
+        text-align: left;
+        padding-top: 20px;
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+    }
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+    }
+
+    .Season-friend {
+        width: 55% !important;
+        padding-top: 48px;
+        font-family: 'Gilroy-Regular';
+
+
+    }
+
+
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 8px !important;
+        width: 145px !important;
+
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 11px !important;
+        width: 175px !important;
+        margin-top: 2px;
+
+
+
+    }
+
+    .second-paragraph {
+        padding-left: 43px !important;
+        padding-right: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 31px;
+        letter-spacing: 0px;
+        text-align: left;
+        color: azure;
+
+
+    }
+
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 26px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 47px;
+        padding-right: 52px;
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16.6006px;
+        line-height: 0px;
+        padding: 7px !important;
+        width: 115px !important;
+
+
+    }
+
+    .btn.two-butter {
+        font-size: 12px;
+
+
+    }
+
+
+}
+
+
+@media screen and (min-width:901px) and (max-width:1000px) {
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+    }
+
+    .Season-friend {
+        width: 55% !important;
+        padding-top: 48px;
+        font-family: 'Gilroy-Regular';
+
+
+    }
+
+    .request-ride {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: right;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .request-ride2 {
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 50px;
+        letter-spacing: 0em;
+        text-align: left;
+        font-family: 'Gilroy-Bold';
+
+
+    }
+
+    .first-heading {
+
+        padding-top: 63px;
+        font-style: normal;
+        font-weight: 1000;
+        font-size: 28.7px !important;
+        line-height: 57px;
+        font-family: 'Gilroy-Bold';
+    }
+
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-size: 12px !important;
+        line-height: 0px;
+        padding: 7px !important;
+        width: 109px !important;
+        margin-left: 57px !important;
+        margin-top: 9px;
+
+
+
+    }
+
+
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 11px !important;
+        width: 167px !important;
+        margin-top: 4px;
+
+
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 8px !important;
+        width: 143px !important;
+
+
+    }
+
+    .second-paragraph {
+        padding-left: 17px !important;
+        padding-right: 0px !important;
+        font-family: 'Gilroy-Regular';
+        font-size: 19px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: 0rem;
+        text-align: left;
+        color: azure;
+
+
+    }
+
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 26px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 47px;
+        padding-right: 52px;
+
+    }
+
+
+}
+
+@media screen and (min-width:1001px) and (max-width:1100px) {
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 9px !important;
+        width: 180px !important;
+        margin-top: 3px;
+    }
+
+
+
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .first-heading {
+
+        padding-top: 120px;
+        font-style: normal;
+        font-weight: 1000;
+        font-size: 44.726px !important;
+        line-height: 66px;
+        font-family: 'Gilroy-Bold';
+
+    }
+
+    .third-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 26px;
+        margin-top: 40px;
+        text-align: center;
+        color: #9E9DA2;
+        padding-left: 170px;
+        padding-right: 170px;
+
+    }
+
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 8px !important;
+        width: 140px !important;
+        margin-top: 15px;
+
+    }
+
+    .twenty-five {
+
+        width: 50% !important;
+        margin-top: -78px;
+
+
+    }
+
+    .twenty-five3 {
+
+        width: 80% !important;
+        margin-top: -78px;
+
+
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 8px !important;
+        width: 201px !important;
+        margin-top: -13px;
+
+    }
+
+    .images-request {
+        margin-left: 260px !important;
+        width: 50px;
+        margin-top: 13px;
+    }
+
+
+}
+
+@media screen and (min-width:1101px) and (max-width:1200px) {
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 10px !important;
+        width: 180px !important;
+        margin-top: 2px;
+    }
+
+
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 7px !important;
+        width: 140px !important;
+        margin-top: 14px;
+        margin-left: 40px
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .twenty-five3 {
+        width: 67% !important;
+        margin-top: -90px;
+    }
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+
+
+    }
+
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 21px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 24px;
+        letter-spacing: 0em;
+        padding-top: 19px;
+        padding-left: 20px;
+    }
+
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 10px !important;
+        width: 203px !important;
+        margin-top: -13px;
+    }
+
+    .images-request {
+        margin-left: 300px;
+        width: 50px;
+        margin-top: 13px;
+    }
+
+
+}
+
+@media screen and (min-width:1201px) and (max-width:1300px) {
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .customer-support5 {
+        font-size: 34px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-left: 590px;
+        margin-top: 29px;
+
+
+
+    }
+
+    .heading-two6 {
+        font-size: 55px;
+        color: #75BF7A;
+        font-weight: 500;
+        padding-left: 590px;
+        margin-top: 20px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .customer-support3 {
+        font-size: 26px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        padding-top: 30px;
+        width: 76% !important;
+        margin-left: 38px;
+
+    }
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 21px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 27px;
+        letter-spacing: 0em;
+        padding-top: 2px;
+        margin-left: 30px;
+
+
+    }
+
+    .customer-support {
+        font-size: 25px;
+        font-weight: 500;
+        font-family: 'Gilroy-bold';
+        width: 73%;
+        margin-left: 32px;
+        margin-top: 23px;
+
+
+    }
+
+    .heading-two {
+        font-size: 50px;
+        color: #75BF7A;
+        font-weight: 500;
+        margin-top: 30px;
+        padding-left: 30px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 10px !important;
+        width: 236px !important;
+        margin-top: 2px;
+    }
+
+
+
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 9px !important;
+        width: 171px !important;
+        margin-top: 6px;
+
+
+
+    }
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+
+
+    }
+
+    .twenty-five {
+
+        width: 40% !important;
+        margin-top: -120px;
+
+
+    }
+
+    .twenty-five3 {
+
+
+        width: 56% !important;
+        margin-top: -122px;
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-size: 25px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 64px;
+
+    }
+
+    .images-request {
+        margin-left: 300px;
+        width: 50px;
+        margin-top: 13px;
+    }
+}
+
+@media screen and (min-width:1301px) and (max-width:1400px) {
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 30px;
+
+    }
+
+    .customer-support3 {
+        font-size: 21px;
+        font-weight: 700;
+        font-family: 'Gilroy-bold';
+        padding-top: 30px;
+        width: 77%;
+        margin-top: 12px;
+        padding-left: 40px;
+    }
+
+    .four-paragraph {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 35px;
+        letter-spacing: 0em;
+        text-align: right;
+        color: #9E9DA2;
+
+    }
+
+    .twenty-five {
+        width: 40% !important;
+        height: 70%;
+        margin-top: -95px;
+    }
+
+    .twenty-five3 {
+        width: 50% !important;
+        margin-top: -90px;
+    }
+
+    .two-butt3 {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-size: 16.6006px !important;
+        line-height: 0px;
+        padding: 10px !important;
+        width: 238px !important;
+        margin-top: 1px;
+
+    }
+
+    .customer-support5 {
+        font-size: 22px;
+        font-family: 'Gilroy-bold';
+        padding-left: 639px;
+        margin-top: 59px;
+        font-weight: 600;
+    }
+
+
+
+
+    .heading-two6 {
+        font-size: 60px;
+        color: #75BF7A;
+        font-weight: 500;
+        padding-left: 628px;
+        margin-top: 39px;
+        font-family: 'Gilroy-bold';
+    }
+
+    .heading-two {
+        font-size: 60px;
+        color: #75BF7A;
+        font-weight: 500;
+        margin-top: 30px;
+        padding-left: 30px;
+        font-family: 'Gilroy-bold';
+
+    }
+
+    .customer-support {
+        font-size: 22px;
+        font-family: 'Gilroy-bold';
+        margin-top: 39px;
+        padding-left: 50px;
+        font-weight: 600;
+    }
+
+    .foot-menu {
+        color: #8B8BA5;
+
+
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+        font-family: 'Gilroy-Regular';
+    }
+
+    .first-images {
+        width: 100% !important;
+        height: 100% !important;
+
+    }
+
+    .two-butter {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-family: 'Gilroy-Bold';
+        font-style: normal;
+
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 10px !important;
+
+        padding: 10px !important;
+        width: 160px !important;
+        margin-top: 10px;
+        margin-left: 41px !important;
+
+
+    }
+
+    .Jakarta-one {
+        font-size: 20px;
+        text-align: left;
+        font-weight: 600;
+        color: #272042;
+        font-family: 'Gilroy-Regular';
+
+
+    }
+
+    .four-paragraph3 {
+        font-family: 'Gilroy-Regular';
+        font-size: 21px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 29px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 33px;
+
+    }
+
+    .four-paragraph4 {
+        font-family: 'Gilroy-Regular';
+        font-weight: 600;
+        font-size: 21px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 39px;
+        letter-spacing: 0em;
+        padding-top: 0px;
+        padding-left: 107px;
+    }
+
+
+    .images-request {
+        margin-left: 300px;
+        width: 50px;
+        margin-top: 13px;
+    }
+
+    .four-paragraph2 {
+        font-family: 'Gilroy-Regular';
+        font-size: 20px;
+        font-weight: 600;
+        color: #9E9DA2;
+        line-height: 34px;
+        letter-spacing: 0em;
+        text-align: left;
+
+
+    }
+
+    .Season-friend {
+        width: 50% !important;
+        padding-top: 46px;
+        font-family: 'Gilroy-Regular';
+    }
+    .two-butt {
+        background: #000000 !important;
+        color: aliceblue !important;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27.6006px;
+        line-height: 0px;
+        padding: 8px !important;
+        width: 235px !important;
+        margin-top: 9px;
+        font-family: 'Gilroy-bold';
+
+}
+
+
+}
